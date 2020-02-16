@@ -1,0 +1,196 @@
+[
+	{
+		"object"	:"link",
+		"title"		:"Vidéos",
+		"icon"		:"/gpos/assets/icons/video.png",
+		"url"		:"https://www.youtube.com/user/TheGweebitProd/videos?sort=dd&view=0&shelf_id=0",
+		"position"	:"top-left"
+	},
+	{
+		"object"	:"folder",
+		"title"		:"C'est ma Toune",
+		"icon"		:"$RANDOM",
+		"items"		:[
+			{
+				"object"	:"link",
+				"title"		:"C'est ma Toune N°0",
+				"icon"		:"/gpos/assets/icons/mixcloud.png",
+				"url"		:"https://www.mixcloud.com/gweebitprod/cest-ma-toune-n0/"
+			},
+			{
+				"object"	:"link",
+				"title"		:"N°0.zip",
+				"icon"		:"$ZIP",
+				"url"		:"https://drive.google.com/file/d/1C03magIkUl5i74vsOAcGJOGhlOspNhDb/view?fbclid=IwAR3fSm0V0Sskg2Qs_PyckKCrUpOs8RvPPCbDedwuSeEuKyhjbqOtbpWn46I"
+			},
+			{
+				"object"	:"image",
+				"title"		:"CmaToune_0",
+				"source"	:"/images/cmatoune0.png"
+			}
+		]
+	},
+	{
+		"object"	:"folder",
+		"title"		:"Les Héros de la Nature",
+		"icon"		:"$BOOK",
+		"items"		:[
+			{
+				"object"	:"link",
+				"title"		:"Tome N°1",
+				"icon"		:"/images/heros/tome1.png",
+				"url"		:"https://drive.google.com/file/d/0B_yM9jV-f7t4MXFwZmJTeFBYYW8/view"
+			},
+			{
+				"object"	:"link",
+				"title"		:"Tome N°2",
+				"icon"		:"/images/heros/tome2.png",
+				"url"		:"https://drive.google.com/file/d/0B_yM9jV-f7t4ajAtWGo0NUpMRnc/view"
+			},
+			{
+				"object"	:"link",
+				"title"		:"Tome N°3",
+				"icon"		:"/images/heros/tome3.png",
+				"url"		:"https://drive.google.com/file/d/1KCkG4ag5HqJZNCFRzUMEd6DIXJmlWPZv/view"
+			},
+			{
+				"object"	:"image",
+				"title"		:"Fourmiman",
+				"source"	:"/images/heros/fourmi.gif",
+				"backColor"	:"white"
+			},
+			{
+				"object"	:"image",
+				"title"		:"Caillouxman",
+				"source"	:"/images/heros/cailloux.gif",
+				"backColor"	:"white"
+			},
+			{
+				"object"	:"image",
+				"title"		:"Fleurman",
+				"source"	:"/images/heros/fleur.gif",
+				"backColor"	:"white"
+			},
+			{
+				"object"	:"image",
+				"title"		:"Nems",
+				"source"	:"/images/heros/nems.gif",
+				"backColor"	:"white"
+			},
+			{
+				"object"	:"image",
+				"title"		:"Chaos",
+				"source" 	:"/images/heros/chaos.gif",
+				"backColor"	:"white"
+			}
+		],
+		"position"	:"top-left"
+	},
+	{
+		"object"	:"folder",
+		"title"		:"Don Foowoo",
+		"icon"		:"$SOUND",
+		"items"		:[
+			{
+				"object"	:"folder",
+				"title"		:"Volume I",
+				"items"		:[
+					{
+						"object"	:"link",
+						"title"		:"Volume I",
+						"icon"		:"/images/donfoowoo/Vol I/disc.png",
+						"url"		:"https://drive.google.com/open?id=1istWae8Zz0NfzRHLfNg18AXR1iXhgu1Y"
+					}
+				]
+			},
+			{
+				"object"	:"folder",
+				"title"		:"Volume II",
+				"items"		:[
+					{
+						"object"	:"link",
+						"title"		:"Volume II",
+						"icon"		:"/images/donfoowoo/Vol II/disc.png",
+						"url"		:"https://drive.google.com/open?id=1U9OG46pMjMQ13ZXeRsVwsWTfS5YX3MVU"
+					}
+				]
+			},
+			{
+				"object"	:"folder",
+				"title"		:"Bulit & Riper",
+				"items"		:[
+					{
+						"object"	:"link",
+						"title"		:"Bulit & Riper",
+						"icon"		:"/images/donfoowoo/Bulit & Riper/disc.png",
+						"url"		:"https://drive.google.com/open?id=1cRKyXf7yo3jQvoFl7cGJD7P3syy35ZDr"
+					}
+				]
+			},
+			{
+				"object"	:"folder",
+				"title"		:"Fleurman chante l'Amour",
+				"items"		:[
+					{
+						"object"	:"link",
+						"title"		:"Amour",
+						"icon"		:"/images/donfoowoo/Fleurman/disc.png",
+						"url"		:"https://drive.google.com/open?id=16VsgmhT9jluTk97tNkuMz3HvKbFZ5q1a"
+					}
+				]
+			},
+			{
+				"object"	:"link",
+				"title"		:"De la Soul",
+				"icon"		:"/pages/delasoul/delacover.png",
+				"url"		:"/pages/delasoul"
+			},
+			{
+				"object"	:"link",
+				"title"		:"Soundcloud",
+				"icon"		:"/gpos/assets/icons/cloud.png",
+				"url"		:"https://soundcloud.com/donfoowoo"
+			}
+		],
+		"position"	:"top-right"
+	},
+	{
+		"object"	:"link",
+		"title"		:"Le Mandrill",
+		"icon"		:"/images/mandrill.png",
+		"url"		:"https://pcompendium.neocities.org/",
+		"position"	:"bottom-left"
+	},
+	{
+		"object"	:"link",
+		"title"		:"GAMES",
+		"icon"		:"/gpos/assets/icons/console.png",
+		"url"		:"https://gweebit-prod.itch.io/",
+		"position"	:"top-right"
+	},
+	{
+		"object"	:"image",
+		"title"		:"Cover",
+		"source" 	:"/images/img.png"
+	},
+
+	{
+		"object"	:"app",
+		"key"		:"the watcher",
+		"position"	:"bottom-right"
+	},
+
+	{
+		"object"	:"app",
+		"key"		:"torchlight",
+		"position"	:"bottom-right"
+	},
+
+	{
+		"object"	:"article",
+		"title"		:"Développer une Application GPOS",
+		"key"		:"howtoapp",
+		"icon"		:"$DEV",
+		"position"	:"bottom-right"
+	}
+]
