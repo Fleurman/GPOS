@@ -1,1 +1,1 @@
-[En oeuvre ici](https://gweebitprod.neocities.org)
+[En oeuvre ici](https://gp.surlesinternets.ch)
